@@ -1,2 +1,3 @@
 <?php
-var_dump($_POST);
+$username = $_POST["username"];
+$content = $_POST["content"];
